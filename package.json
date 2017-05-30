@@ -1,0 +1,11 @@
+{
+  "name": "skill-testing-junit5-apprentice-dev",
+  "description": "SKILL: Unit Testing - JUnit 5 (Apprentice Developer)",
+  "version": "0.1.0",
+  "author": "Andrew Harmel-Law",
+  "license": "CC-BY-NC-SA-4.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
