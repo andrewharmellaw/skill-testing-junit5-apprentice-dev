@@ -1,7 +1,7 @@
 # SKILL: Unit Testing - JUnit 5 (Apprentice Developer)
 
 ## [PRE-REQUISITES]
-  * [Java 8 Programmer (Apprentice Developer)] (https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-java8-apprentice-dev/)
+  * [Java 8 Programmer (Apprentice Developer)](https://andrewharmellaw.github.io/quest-dist-sys-eng-java-apprentice/skill-java8-apprentice-dev/)
 
 ## [TOPICS]
   * Writing Tests
